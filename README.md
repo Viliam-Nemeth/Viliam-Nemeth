@@ -18,5 +18,7 @@ My work in SaaS Busines Environment has led me to develop a passion for cybersec
 
 ## Courses
 
+- [CompTIA A+](https://github.com/user-attachments/assets/cb029f1b-b63e-441f-9b11-cb15ef2927ae)
+- [CompTIA Network+](https://github.com/user-attachments/assets/e33bf248-7e0c-4b6d-a25f-4b20540d56f9)
 
 ## Projects
