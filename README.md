@@ -29,4 +29,5 @@ My work in SaaS Busines Environment has led me to develop a passion for cybersec
 - [Business Analysis](https://github.com/user-attachments/assets/32ec21cb-6e50-4bf9-bae5-b21204689f9f)
 
 
-## Projects
+## Projects / Labs
+- [SOC Labs](https://github.com/Viliam-Nemeth/SOC-Labs)
