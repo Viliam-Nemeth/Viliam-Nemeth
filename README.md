@@ -8,7 +8,7 @@ I am an Agile Coach and Business Transition Professional in SaaS environment. I 
 
 ## Objective
 
-My work in SaaS Busines Environment has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My work in SaaS Busines Environment has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming for GRC Analyst role or Security Operations Center (SOC) Tier 1 Analyst.
 
 ## Certifications
 
