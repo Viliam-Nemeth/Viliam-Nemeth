@@ -30,4 +30,5 @@ My work in SaaS Busines Environment has led me to develop a passion for cybersec
 
 
 ## Projects / Labs
+- [GRC Labs](https://github.com/Viliam-Nemeth/GRC)
 - [SOC Labs](https://github.com/Viliam-Nemeth/SOC-Labs)
