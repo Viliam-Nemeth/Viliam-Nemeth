@@ -18,8 +18,12 @@ My work in SaaS Busines Environment has led me to develop a passion for cybersec
 
 ## Courses
 ### Cyber Security
-- [CompTIA A+](https://github.com/user-attachments/assets/cb029f1b-b63e-441f-9b11-cb15ef2927ae)
+- [CompTIA Security+](https://github.com/user-attachments/assets/0a86b21d-4a65-4fdd-91e4-cc57352841c9)
 - [CompTIA Network+](https://github.com/user-attachments/assets/e33bf248-7e0c-4b6d-a25f-4b20540d56f9)
+- [CompTIA A+](https://github.com/user-attachments/assets/cb029f1b-b63e-441f-9b11-cb15ef2927ae)
+
+
+
 
 ### Agile
 - [Scrum 101](https://github.com/user-attachments/assets/77169e3d-d189-4f7f-bb18-41f83b047e83)
